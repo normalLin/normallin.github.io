@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 金城五金行</title>
+    <link>https://normalLin.github.io/categories/</link>
+    <description>Recent content in Categories on 金城五金行</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 28 Apr 2021 16:12:00 +0800</lastBuildDate><atom:link href="https://normalLin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>教學</title>
+      <link>https://normalLin.github.io/categories/%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Wed, 28 Apr 2021 16:12:00 +0800</pubDate>
+      
+      <guid>https://normalLin.github.io/categories/%E6%95%99%E5%AD%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Language</title>
+      <link>https://normalLin.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://normalLin.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

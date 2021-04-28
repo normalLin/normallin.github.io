@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 金城五金行</title>
+    <link>https://normalLin.github.io/tags/</link>
+    <description>Recent content in Tags on 金城五金行</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 28 Apr 2021 16:12:00 +0800</lastBuildDate><atom:link href="https://normalLin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jo Jo</title>
+      <link>https://normalLin.github.io/tags/jo-jo/</link>
+      <pubDate>Wed, 28 Apr 2021 16:12:00 +0800</pubDate>
+      
+      <guid>https://normalLin.github.io/tags/jo-jo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://normalLin.github.io/tags/new/</link>
+      <pubDate>Wed, 28 Apr 2021 16:12:00 +0800</pubDate>
+      
+      <guid>https://normalLin.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>學習</title>
+      <link>https://normalLin.github.io/tags/%E5%AD%B8%E7%BF%92/</link>
+      <pubDate>Wed, 28 Apr 2021 16:12:00 +0800</pubDate>
+      
+      <guid>https://normalLin.github.io/tags/%E5%AD%B8%E7%BF%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://normalLin.github.io/tags/photos/</link>
+      <pubDate>Mon, 26 Apr 2021 14:07:47 +0800</pubDate>
+      
+      <guid>https://normalLin.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://normalLin.github.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://normalLin.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://normalLin.github.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://normalLin.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://normalLin.github.io/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://normalLin.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>學習 on 金城五金行</title>
+    <link>https://normalLin.github.io/tags/%E5%AD%B8%E7%BF%92/</link>
+    <description>Recent content in 學習 on 金城五金行</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 28 Apr 2021 16:12:00 +0800</lastBuildDate><atom:link href="https://normalLin.github.io/tags/%E5%AD%B8%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jo Jo torture dance 教學</title>
+      <link>https://normalLin.github.io/blog/test2/</link>
+      <pubDate>Wed, 28 Apr 2021 16:12:00 +0800</pubDate>
+      
+      <guid>https://normalLin.github.io/blog/test2/</guid>
+      <description>直接來Part 2：   自己去連part 1</description>
+    </item>
+    
+    <item>
+      <title>金城五的第一篇文章</title>
+      <link>https://normalLin.github.io/blog/test/</link>
+      <pubDate>Mon, 26 Apr 2021 14:07:47 +0800</pubDate>
+      
+      <guid>https://normalLin.github.io/blog/test/</guid>
+      <description>Hello world!
+這是一篇文章~
+ This is 一級標題 This is 二級標題 三級標題 四級標題，四個&amp;quot;#&amp;quot; 五級標題，五個&amp;quot;#&amp;quot; 六級標題  粗體用 **包起來</description>
+    </item>
+    
+  </channel>
+</rss>
